@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <Description>Core elements for DataTables.AspNet.</Description>
-    <Copyright>2014-2022 Anderson Matos (MIT License)</Copyright>
+    <Copyright>2014-2023 Anderson Matos (MIT License)</Copyright>
     <AssemblyTitle>DataTables.AspNet.Core</AssemblyTitle>
     <NeutralLanguage>en-US</NeutralLanguage>
-    <VersionPrefix>2.0.5</VersionPrefix>
+    <VersionPrefix>2.0.6</VersionPrefix>
     <Authors>Anderson Matos/Adhemar Soria Galvaro</Authors>
     <AssemblyName>DataTables.AspNet.Core</AssemblyName>
     <PackageId>DataTables.AspNet.CoreV2</PackageId>
